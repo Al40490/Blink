@@ -36,4 +36,4 @@ Daniel Chan, Kevin Tan, Mouhamadou Aliou Diallo and Philippe Pou
 
 
 
-This project is made during the hackathon HackConcordia 2026
+This project is made during the hackathon HackDécouverte II 2026
