@@ -34,4 +34,6 @@ TouchDesigner, MediaPipe, Python, Claude (Opus 5.5) for code debugging and ChatG
 Daniel Chan, Kevin Tan, Mouhamadou Aliou Diallo and Philippe Pou
 
 
+
+
 This project is made during the hackathon HackConcordia 2026
