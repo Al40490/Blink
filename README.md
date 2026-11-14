@@ -4,6 +4,11 @@
 
 Blink lets people who are unable to speak, and who have a disability from the neck down, express their thoughts in Morse code using only their eyes. It requires no expensive equipment and no heavy software.
 
+## Requirements
+
+- [TouchDesigner](https://derivative.ca/download)
+- [MediaPipe TouchDesigner](https://github.com/torinmb/mediapipe-touchdesigner)
+
 ## How to use
 
 | Action | Gesture |
