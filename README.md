@@ -25,6 +25,13 @@ Open `Blink_v1.toe` to launch the project in TouchDesigner.
 | Delete the last symbol | Close your eyelid for more than 2 s |
 | Space | Look to the left twice in a row |
 
+## Tools used for this project
+
+TouchDesigner, MediaPipe, Python, Claude (Opus 5.5) for code debugging and ChatGPT (Free version) for TouchDesigner debugging
+
 ## Authors
 
 Daniel Chan, Kevin Tan, Mouhamadou Aliou Diallo and Philippe Pou
+
+
+This project is made during the hackathon HackConcordia 2026
