@@ -7,6 +7,7 @@ Blink lets people who are unable to speak, and who have a disability from the ne
 ## Requirements
 
 - [TouchDesigner](https://derivative.ca/download)
+- `MediaPipe.tox` (too large for this repo): download it from the [MediaPipe TouchDesigner releases](https://github.com/torinmb/mediapipe-touchdesigner/releases) and place it in the `toxes` folder
 
 ## Credits
 
