@@ -15,6 +15,8 @@ Built on top of [MediaPipe TouchDesigner](https://github.com/torinmb/mediapipe-t
 
 ## How to use
 
+Open `Blink_v1.toe` to launch the project in TouchDesigner.
+
 | Action | Gesture |
 |---|---|
 | `.` (dot) | Close your eyelid for 0.25 to 0.75 s |
