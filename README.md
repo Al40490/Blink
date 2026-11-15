@@ -2,7 +2,7 @@
 
 **Words in a blink of an eye.**
 
-Blink lets people who are unable to speak, and who have a disability from the neck down, express their thoughts in Morse code using only their eyes. It requires no expensive equipment and no heavy software.
+Blink lets people who are unable to speak, and who have a disability from the neck down, express their thoughts in Morse code using only their eyes. It requires no expensive equipment and no heavy software. This prototype gives them a letter, a word, and—most importantly—a voice.
 
 ## Requirements
 
@@ -33,7 +33,4 @@ TouchDesigner, MediaPipe, Python, Claude (Opus 5.5) for code debugging and ChatG
 
 Daniel Chan, Kevin Tan, Mouhamadou Aliou Diallo and Philippe Pou
 
-
-
-
-This project is made during the hackathon HackDécouverte II 2026
+This project was made during the hackathon HackDécouverte II 2026
